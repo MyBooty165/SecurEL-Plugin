@@ -1,1 +1,1 @@
-SecurEL Plugin is meant for banning any ¨edu.cfisd.net¨ emails and secure any sites
+SecurEL is an unfinished and hopeully Sophisticated Plugin From Tam Le Specifically For CFISD. It´s Purpose is to use Machine Learning to detect user email who enter Tam´s Game Hub and see if the email domain is ¨edu.cfisd.net¨ as if it is, the code will redirect the user to a blockpage. The exact way CFISD does to us.
