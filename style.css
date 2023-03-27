@@ -1,0 +1,35 @@
+/* style.css */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #fff;
+}
+
+#loader img {
+  width: 50%;
+  max-width: 150px;
+}
+
+#access-denied,
+#access-granted {
+  display: none;
+  height: 100vh;
+  background-color: #fff;
+}
+
+#access-denied {
+  color: #f00;
+}
+
+#access-granted {
+  color: limegreen;
+}
